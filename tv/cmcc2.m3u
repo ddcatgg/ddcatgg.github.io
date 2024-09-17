@@ -7,8 +7,10 @@ http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="纪实人文" tvg-logo="" group-title="上海频道",8M-HD-纪实频道HD
 http://117.135.56.6:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海都市" tvg-logo="" group-title="上海频道",8M-HD-电视剧频道HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",8M-HD-电视剧频道HD
 http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海频道",生活时尚HD
+http://117.135.56.6:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海频道",8M-HD-第一财经HD
 http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海频道",8M-HD-五星体育HD
@@ -17,7 +19,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海教育" tvg-logo="" group-title="上海频道",8M-HD-上海教育
 http://117.135.56.6:6060/cms001/ch00000090990000001053/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",都市剧场HD
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海频道",都市剧场HD
 http://117.135.56.6:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海频道",欢笑剧场HD
 http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
@@ -29,9 +31,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001195/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海频道",游戏风云HD
 http://117.135.56.6:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海频道",生活时尚HD
-http://117.135.56.6:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",QuanjishiHD
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海频道",乐游
 http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海频道",JisuqicheHD
 http://117.135.56.6:6060/cms001/ch00000090990000001191/index.m3u8
