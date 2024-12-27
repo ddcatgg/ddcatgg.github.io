@@ -69,7 +69,7 @@ http://39.134.65.141/PLTV/88888888/224/3221225674/Cf.m3u8
 http://39.134.65.141/PLTV/88888888/224/3221225513/Cf.m3u8
 #EXTINF:-1 tvg-id="188" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克频道
 http://39.134.65.141/PLTV/88888888/224/3221225893/Cf.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://39.134.65.141/PLTV/88888888/224/3221225708/Cf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",2.5M-北京卫视HD
 http://117.135.56.6:6060/cms001/ch00000090990000001029/index.m3u8
